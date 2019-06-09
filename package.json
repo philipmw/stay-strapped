@@ -1,0 +1,12 @@
+{
+  "name": "steady-state",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/jest": "latest",
+    "@types/node": "12.0.4",
+    "jest": "latest",
+    "ts-jest": "latest",
+    "typescript": "latest"
+  }
+}
